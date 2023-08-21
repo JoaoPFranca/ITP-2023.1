@@ -1,6 +1,6 @@
 <h1 align="center">Listas - ITP</h1> 
 
-<h3 align="center"> Questões de ITP resolvidas em C </h3>
+<h3 align="center"> Questões de ITP resolvidas em <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code> </h3>
 
 <h4 align="center"> Respondidas e comentadas por João Pedro de França </h4>
 
